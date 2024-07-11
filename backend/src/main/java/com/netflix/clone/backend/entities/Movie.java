@@ -1,4 +1,4 @@
-package com.netflix.entities;
+package com.netflix.clone.backend.entities;
 import java.time.LocalDateTime;
 
 import org.springframework.data.annotation.Id;
